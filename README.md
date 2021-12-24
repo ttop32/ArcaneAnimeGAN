@@ -61,6 +61,7 @@ trying to follow bryandlee animegan2 training methodology
 - [BlendGAN](https://github.com/onion-liu/BlendGAN)  
 - [Cartoon-StyleGAN](https://github.com/happy-jihye/Cartoon-StyleGAN)  
 - [FFHQ-Alignment](https://github.com/happy-jihye/FFHQ-Alignment)  
+- [FFHQ-dataset](https://github.com/NVlabs/ffhq-dataset)
 - [face-alignment](https://github.com/1adrianb/face-alignment)  
 - [stylegan3](https://github.com/NVlabs/stylegan3)  
 - [FreezeD](https://github.com/sangwoomo/FreezeD)  
