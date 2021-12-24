@@ -1,7 +1,7 @@
 # ArcaneAnimeGAN
-AnimeGAN2 trained on Arcane
-trying to follow bryandlee animegan2 training methodology
-
+AnimeGAN2 trained on Arcane  
+trying to follow bryandlee animegan2 training methodology  
+  
 # Result   
 ![result](doc/result1.png)    
 ![result](doc/result2.png)     
@@ -52,7 +52,7 @@ trying to follow bryandlee animegan2 training methodology
 - [cartoon-gan](https://github.com/FilipAndersson245/cartoon-gan)  
 - [pytorch-implementation-of-perceptual-losses](https://towardsdatascience.com/pytorch-implementation-of-perceptual-losses-for-real-time-style-transfer-8d608e2e9902)  
 - [Artistic-Style-Transfer](https://kyounju.tistory.com/3)  
-  
+-   
 - [animegan2-pytorch-arcane](https://github.com/bryandlee/animegan2-pytorch/issues/17)  
 - [DeepStudio](https://github.com/bryandlee/DeepStudio)  
 - [ArcaneGAN](https://github.com/Sxela/ArcaneGAN)  
