@@ -66,4 +66,5 @@ trying to follow bryandlee animegan2 training methodology
 - [FreezeD](https://github.com/sangwoomo/FreezeD)  
 - [Image-Blur-Detection](https://github.com/priyabagaria/Image-Blur-Detection)  
 - [Classifying_image_blur_nonblur](https://github.com/pranavAL/Classifying_image_blur_nonblur)
+- [arcane](https://www.netflix.com/kr/title/81435684)
 
