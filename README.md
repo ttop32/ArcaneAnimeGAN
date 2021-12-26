@@ -4,9 +4,6 @@ trying to follow bryandlee animegan2 training methodology
   
 # Result   
 ![result](doc/result1.png)    
-![result](doc/result2.png)     
-![result](doc/result3.png)    
-![result](doc/result4.png)    
 
 # Training Workflow
 - Get video data
@@ -22,7 +19,6 @@ trying to follow bryandlee animegan2 training methodology
 # To Do
 - Use animegan vgg19[0,255] instead of vgg19_bn[0,1]
 - Add canny edge method to gaussigan blur
-- Gradient penalty
 - Background segmentation
   
 # Required environment to run    
