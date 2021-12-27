@@ -1,8 +1,8 @@
 # ArcaneAnimeGAN
-AnimeGAN2 trained on Arcane  
-trying to follow bryandlee animegan2 training methodology  
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sBnFG9XR0euphD1LLspZOD2hxfyBwooN?usp=sharing)  
+AnimeGAN2 trained on Arcane   
+trying to follow bryandlee animegan2 training methodology   
 
-https://colab.research.google.com/drive/1sBnFG9XR0euphD1LLspZOD2hxfyBwooN?usp=sharing
   
 # Result   
 ![result](doc/result1.png)    
