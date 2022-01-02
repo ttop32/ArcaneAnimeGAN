@@ -21,6 +21,8 @@ trying to follow bryandlee animegan2 training methodology
 # Change log
 - 0.2
   - use l1_loss(vgg(g(x)), vgg(y)) and mse_loss(g(x), y) instead of vgg feature loss and gram matrix loss
+  - add color correction on data preprocessing
+  - add aug_transforms() on batch transform
 - 0.1
   - first release
 # To Do
@@ -72,4 +74,6 @@ trying to follow bryandlee animegan2 training methodology
 - [Classifying_image_blur_nonblur](https://github.com/pranavAL/Classifying_image_blur_nonblur)
 - [arcane](https://www.netflix.com/kr/title/81435684)
 - [JoJoGAN](https://github.com/mchong6/JoJoGAN)
+- [anime-face-detector](https://github.com/hysts/anime-face-detector)
+- [color correction](https://github.com/luftj/MaRE/blob/4284fe2b3307ca407e87e3b0dbdaa3c1ef646731/simple_cb.py)
 
