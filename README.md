@@ -20,10 +20,10 @@ trying to follow bryandlee animegan2 training methodology
   
 # Change log
 - 0.2
-  - use l1_loss(vgg(g(x)), vgg(y)) and mse_loss(g(x), y) instead of vgg feature loss and gram matrix loss
-  - add color correction on data preprocessing
   - use anime-face-detector 
+  - add color correction on data preprocessing
   - add aug_transforms() on batch transform
+  - use l1_loss(vgg(g(x)), vgg(y)) and mse_loss(g(x), y) instead of vgg feature loss and gram matrix loss
 - 0.1
   - first release
 # To Do
