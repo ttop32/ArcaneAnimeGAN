@@ -5,7 +5,7 @@ trying to follow bryandlee animegan2 training methodology
 
   
 # Result   
-![result](doc/result1.png)    
+![result](doc/result0.2.png)    
 
 # Training Workflow
 - Get video data
@@ -18,6 +18,11 @@ trying to follow bryandlee animegan2 training methodology
 - Create data pair using blended styleGAN model and pretrained model
 - Train animeGAN using paired data
   
+# Change log
+- 0.2
+  - use l1_loss(vgg(g(x)), vgg(y)) and mse_loss(g(x), y) instead of vgg feature loss and gram matrix loss
+- 0.1
+  - first release
 # To Do
 - Use animegan vgg19[0,255] instead of vgg19_bn[0,1]
 - Add canny edge method to gaussigan blur
