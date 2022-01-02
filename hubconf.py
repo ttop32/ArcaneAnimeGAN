@@ -3,12 +3,12 @@
 import torch
 
 
-def generator(pretrained=True, device="cpu", progress=True, check_hash=True):
+def generator(pretrained=True, device="cpu", progress=True, check_hash=True, name="arcane_animegan_0.2"):
     from model import Generator
 
     device = torch.device(device)
     model = Generator().to(device)
-    ckpt_url = "https://github.com/ttop32/ArcaneAnimeGAN/raw/main/weights/arcaneanimegan_0.1.pt"
+    ckpt_url = f"https://github.com/ttop32/ArcaneAnimeGAN/raw/main/weights/{name}.pt"
 
     if pretrained:
         model.load_state_dict(
