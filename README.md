@@ -41,6 +41,10 @@ trying to follow bryandlee animegan2 training methodology
 !pip install fastai==2.5.3
 !pip install opencv-python
 !git clone https://github.com/NVlabs/stylegan3.git
+
+!pip install openmim
+!mim install mmcv-full mmdet mmpose -y
+!pip install anime-face-detector --no-dependencies
 ```
   
 # Acknowledgement and References  
