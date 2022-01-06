@@ -81,4 +81,4 @@ trying to follow bryandlee animegan2 training methodology
 - [JoJoGAN](https://github.com/mchong6/JoJoGAN)
 - [anime-face-detector](https://github.com/hysts/anime-face-detector)
 - [color correction](https://github.com/luftj/MaRE/blob/4284fe2b3307ca407e87e3b0dbdaa3c1ef646731/simple_cb.py)
-
+- [White-box-Cartoonization](https://github.com/SystemErrorWang/White-box-Cartoonization)
